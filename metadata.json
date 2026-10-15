@@ -1,0 +1,6 @@
+{
+  "name": "SARANG RN — PLAYLIST BGM Cinematic Kinetic Typography",
+  "description": "High-end cinematic 20-second kinetic typography and music-video visualizer experience for SARANG RN — PLAYLIST BGM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
